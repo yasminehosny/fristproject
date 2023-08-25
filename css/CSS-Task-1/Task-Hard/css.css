@@ -1,0 +1,254 @@
+header{
+    width: 100%;
+    height: 1000px;
+    background-color: rgb(9, 239, 147);
+    
+   
+}
+.img1{
+    width: 400px;
+    float: left;
+    position: relative;
+    top: 350px;
+    left: 100px;
+}
+.img2{
+   float: right;
+   width: 400px;
+   position: relative;
+   right: 100px;
+   bottom: 200px;
+}
+.img3{
+    width:1000px;
+   position: relative;
+   top: 170px;
+   left: 1100px;
+   
+}
+.header {
+   
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Cherry Bomb One', cursive;
+    font-size: 50px;
+}
+h1.header{
+    color: white; 
+    position: relative;
+     top:100px;     
+}
+h2.header{
+    color: chocolate;
+   transform: rotate(-5deg);
+   position: relative;
+     top: 70px;
+    
+}
+p{
+    font-size: 30px;
+}
+.img4{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    
+}
+.hello{
+    text-align: center;
+    margin: 50px 0 ;
+}
+.hello h1{
+    color: rgb(55, 161, 161);
+    font-size: 70px;
+}
+.point{
+    font-size: 80px;
+    text-align: center;
+}
+.skills h1{
+    color: rgb(55, 161, 161);
+    font-size: 70px;
+    text-align: center;
+}
+.skills #coding{
+    text-align: center;
+    margin: 50px 0 ;
+}
+.skills #coding h2{
+    color: rgb(55, 161, 161);
+    font-size: 50px;
+    position: relative;
+    right: 650px;
+    top: 150px;
+}
+.skills #coding .img5{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    position: relative;
+    left: 850px;
+    top: 50px;
+    
+}
+.skills #coding p{
+    position: relative;
+    bottom: 100px;
+
+}
+.skills #web{
+    text-align: center;
+    margin: 50px 0 ;
+}
+.skills #web h2{
+    color: rgb(55, 161, 161);
+    font-size: 50px;
+    position: relative;
+    right: 200px;
+    top: 130px;
+}
+.skills #web .img6{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    position: relative;
+    right: 660px;
+}
+.skills #web p{
+    position: relative;
+    left: 220px;
+    bottom:100px;
+}
+
+.skills #video{
+    text-align: center;
+    margin: 50px 0 ;
+}
+.skills #video h2{
+    color: rgb(55, 161, 161);
+    font-size: 50px;
+    position: relative;
+    right: 650px;
+    top: 150px;
+}
+.skills #video .img7{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    position: relative;
+    left: 850px;
+}
+.skills #video p{
+    position: relative;
+    bottom: 100px;
+    right: 50px;
+}
+.hobbies{
+    text-align: center; 
+}
+.hobbies h1{
+    color: rgb(55, 161, 161);
+    font-size: 70px;
+    
+}
+.hobbies h2{
+    color: rgb(55, 161, 161);
+    font-size: 70px;
+    
+}
+.hobbies #climbing h2{
+    color: rgb(55, 161, 161);
+    font-size: 50px;
+    position: relative;
+    right: 650px;
+    top: 150px;
+    
+}
+.hobbies #climbing .img8{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    position: relative;
+    left: 850px;
+}
+.hobbies #climbing p{
+    position: relative;
+    bottom: 100px;
+}
+.hobbies #teaching h2{
+    position: relative;
+    right: 300px;
+    top: 130px;
+}
+.hobbies #teaching .img9{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    position: relative;
+    right: 670px;
+    
+}
+.hobbies #teaching p{
+    position: relative;
+    left: 200px;
+    bottom:100px;
+}
+.hobbies #reading h2{
+    position: relative;
+    right: 650px;
+    top: 150px;
+}
+.hobbies #reading .img10{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    position: relative;
+    left: 850px;
+}
+.hobbies #reading p{
+    position: relative;
+    bottom: 100px;
+}
+.contact{
+    text-align: center;
+    color: rgb(55, 161, 161) ;
+}
+.contact h1{
+    font-size:60px ;
+}
+.contact p{
+    font-size: 40px;
+}
+.contact h3{
+    display: inline-block;
+    width: 400px;
+    height: 100px;
+    border: 1px solid  rgb(186, 86, 86);
+        font-size: 50px;
+    background-color: rgb(186, 86, 86);
+    color: white;
+    border-radius: 20px;
+}
+.contact h2{
+    color: black;
+}
+.footer{
+    text-align: center;
+    background-color: lightseagreen;
+    width: 100%;
+    height: 300px;
+    padding-top: 50px;
+}
+.footer p{
+    font-size: 40px;
+}
+.footer a{
+    font-size: 30px;
+    text-decoration: none;
+    margin: 20px;
+    color: rgb(67, 75, 84);
+}
+.footer a img{
+    background-color: rgb(134, 197, 224);
+}
+
